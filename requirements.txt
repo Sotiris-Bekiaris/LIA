@@ -1,0 +1,6 @@
+numpy
+whisper-cpp
+pyaudio
+requests
+TTS
+sounddevice
