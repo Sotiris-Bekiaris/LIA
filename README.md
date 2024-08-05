@@ -83,3 +83,7 @@ Contributions to this project are welcome. Please fork the repository and create
 ## Contact
 
 If you have any questions or feedback, please open an issue in this repository.
+
+## TOOD
+
+- Currently the version of XTTS stream is working only with `transformers==4.42.*`, so remember to update this.

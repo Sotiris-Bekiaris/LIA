@@ -1,6 +1,6 @@
-numpy
-whisper-cpp
+numpy==1.24.3
 pyaudio
 requests
-TTS
 sounddevice
+soundfile
+transformers==4.42.4
