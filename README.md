@@ -23,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository:
 
 ```
-git clone https://github.com/yourusername/ai-voice-assistant.git
+git clone https://github.com/Sotiris-Bekiaris/LIA.git
 ```
 
 ```
